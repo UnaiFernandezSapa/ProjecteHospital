@@ -1,4 +1,4 @@
-# **LOG DE CANVIS**
+# **DIARI DE SESSIONS**
 *En aquest document registrarè cada canvi, avanç i problema, amb les seves corresponents dates, hores i altres detalls*
 
 ## 8/4/26 - Aprenentatge sobre Github i creació del repo
