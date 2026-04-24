@@ -8,3 +8,7 @@
 ###  ***17/4/26 - Creació de les entitats i Relaciones del esquema ER  [Resolució]***
 - **Temps emprat:** *3 hores* \
 - *He acabat l'esquelet de l'esquema ER: Les entitats i les rel·lacions entre elles, ara només falta els atributs i ja estaría definitiu per entregar*
+
+###  ***24/4/26 - Creació de el atributs i finalització del esquema ER  [Resolució]***
+- **Temps emprat:** *1 hora i 40 minuts* \
+- *He acabat l'esquema ER sencer, he hagut de posar una nova entitat degut a que m'he trobat amb el dilema de com fer una recepta de medicaments, finalment he vist que la recepta havia de ser una relació N/M entre l'entitat visita i la nova entitat "medicament".*
