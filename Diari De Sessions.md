@@ -12,3 +12,7 @@
 ###  ***24/4/26 - Creació de el atributs i finalització del esquema ER  [Resolució]***
 - **Temps emprat:** *1 hora i 40 minuts* \
 - *He acabat l'esquema ER sencer, he hagut de posar una nova entitat degut a que m'he trobat amb el dilema de com fer una recepta de medicaments, finalment he vist que la recepta havia de ser una relació N/M entre l'entitat visita i la nova entitat "medicament".*
+
+###  ***24/4/26 - Finalització del model Relacional  [Resolució]***
+- **Temps emprat:** *1 hora i 30 minuts* \
+- *He acabat de passar el model de esquema ER a model RElacional, he hagut d'introduir un par d'atributs que m'havia deixat però no he tingut massa complicacions.*
