@@ -16,3 +16,7 @@
 ###  ***24/4/26 - Finalització del model Relacional  [Resolució]***
 - **Temps emprat:** *1 hora i 30 minuts* \
 - *He acabat de passar el model de esquema ER a model RElacional, he hagut d'introduir un par d'atributs que m'havia deixat però no he tingut massa complicacions.*
+
+###  ***29/4/26 - Seguiment login  [Resolució]***
+- **Temps emprat:** *56 minuts* \
+- *He començat i casi acabat la part d'interficie I l'esquelet del inici de sessió, a més, he organitzat en el jira tor el tema del BLOC DE CONECTIVITAT I LOGIN.*
