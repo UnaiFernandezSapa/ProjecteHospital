@@ -20,3 +20,7 @@
 ###  ***29/4/26 - Seguiment login  [Resolució]***
 - **Temps emprat:** *56 minuts*  
 - *He començat i casi acabat la part d'interficie I l'esquelet del inici de sessió, a més, he organitzat en el jira tor el tema del BLOC DE CONECTIVITAT I LOGIN.*
+
+###  ***8/5/26 (1ª Part) - Login i Json acabat  [Resolució]***
+- **Temps emprat:** *56 minuts*  
+- *He finalitzat el sistema de login i he fet que el codi vagi a buscar els usuaris a un document JSON extern, ara començo amb la MV per a crear la DB*
